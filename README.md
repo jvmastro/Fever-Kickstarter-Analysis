@@ -14,4 +14,11 @@ The campaign information, detailed in [Kickstarter_Challenge](resources/Kickstar
 
 ### Outcomes Based on Goals - Overview of Process and Findings
 
-![Outcomes Based on Goals](resources/Outcomes_vs_Goals) 
+![](resources/Outcomes_vs_Goals.png) 
+
+Goal amounts were grouped into twelve bins as dentoed by the legend on the graph above. Filtering to only observe the subcategory "plays, the total number of sucessful, failed, and canceled campaigns were calculated and then displayed as a percentage of the sum of the three outcomes - "live" campaings were ignored in the report.
+
+From the resulting graph, it can be concluded that campaigns with an initial goal of <$1,0000 were the most successful (76%) and those with an inital goal between $45,000 to $49,000 were the least successful (100%). With that being said, most campaings set an intial goal between $1,000 and $4,999 and observed a high success rate of 73%. By keeping a play campaign goal under $4,999, a Kickstarter would have a 74.4% chance achieving their inital goal. 
+
+### Outcomes Based on Launch Date
+
