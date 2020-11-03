@@ -10,8 +10,8 @@ The purpose of this campaign was to evaluate "The Client's" campaign for *Fever*
 
 ## Analysis and Challenges
 
-The campaign information,detailed in [Kickstarter_Challenge](resources/Kickstarter_Challenge.xlsx), was used to formula the following two deliverables that assess campaign performance: Outcomes Based on Launch Date and Outcomes Based on Goal.
+The campaign information, detailed in [Kickstarter_Challenge](resources/Kickstarter_Challenge.xlsx), was used to formula the following two deliverables that assess campaign performance: Outcomes Based on Launch Date and Outcomes Based on Goal.
 
 ###Outcomes Based on Launch Date - Overview of Process and Findings
 
-![](resources/
+![](resources/Outcomes_vs_Goals) 
