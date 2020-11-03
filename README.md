@@ -10,4 +10,4 @@ The purpose of this campaign was to evaluate "The Client's" campaign for *Fever*
 
 ## Analysis and Challenges
 
-Campaign information , detailed in [](resources/Kickstarter-Challenge.xlsx)
+Campaign information , detailed in [Kickstarter_Challenge](resources/Kickstarter_Challenge.xlsx)
