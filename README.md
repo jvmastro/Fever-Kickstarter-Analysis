@@ -46,8 +46,8 @@ Depsite those two conclusions, this data set is quite limited. The following are
 -Did failed campaigns start again with different goals?
 
 To answer The Client's question more throuroughly, more analysis is requried. The following could also be observed to give a more detailed analysis:
-1. How quickly a campaing reached its goal
-2. How many backers a campaing had and information on donation amounts per backer
-3. Countries with the most sucessful campaigns
+1. How quickly a campaign reached its goal
+2. How many backers a campaign had and information on donation amounts per backer
+3. Countries with the most successful campaigns
 
 
